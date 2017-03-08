@@ -12,4 +12,5 @@ Send a tweet for each subscriber of a nick given.
 
 דמיטרי רובינשטיין, [Mar 8, 2017, 8:14 PM]: 
 > Те редисы, рэббитмкью, постгрес - нахер
+>
 > Ets, dets, mnesia
